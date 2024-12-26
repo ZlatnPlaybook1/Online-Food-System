@@ -7,7 +7,6 @@ An efficient and user-friendly online food ordering system designed to enhance t
 - [About](#about)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -52,22 +51,6 @@ This project provides a comprehensive solution for restaurants to manage their m
 - **Database**: MySQL
 - **Others**: Bootstrap for UI components, jQuery for DOM manipulation, AOS Library for scroll animation.
 
-## Screenshots
-
-These images are included to better illustrate the functionality and user interface of the Online Food Order System and showcase different parts of the application, including the customer interface, admin panel, and key features.
-
-### Admin Interface Screenshot
-
-1. **Dashboard Overview**  
-   ![Admin Dashboard](UI-Screenshots/Admin-Index.png)
-
-### User Interface Screenshot
-
-1. **User Interface Overview**  
-   ![User Index](UI-Screenshots/User-Index.png)
-
-For more detailed UI screenshots, please check the `UI-Screenshots` folder.
-
 ## Getting Started
 
 ### Prerequisites
@@ -102,8 +85,6 @@ Follow these steps to set up the project locally:
 
     - To run the application locally, start your Apache server and navigate to the project directory in your browser:
         http://localhost/Online-Food-System
-
-
 
 ## Access Instructions
 
